@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444411793 source:c:\users\pr0gr4mm3r\desktop\c++ projects\travelexpense\main.cpp
+	<iostream>
+	<iomanip>
+
